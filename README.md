@@ -1,7 +1,7 @@
 - 👋 Hallo, I’m Taiwo Adegite, A Google Certified Data Analyts and Back-end Developer (Django)
 - 👀 I’m interested in Data Analytics and enjoying working at the back-end of applications.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on here on Github and LinkedIn.
+- 💞️ I’m looking to collaborate here on Github and LinkedIn.
 - 📫 You can Reach me via email (adegitetaiwo24@gmail.com) and on LinkedIn (https://www.linkedin.com/in/taiwo-adegite-39849b187/)
 
 <!---
