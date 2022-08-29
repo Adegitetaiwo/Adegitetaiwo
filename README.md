@@ -4,6 +4,7 @@
 - 👀 He is interested in Data Analytics and enjoys working as a back-end Developer.
 - 🌱 He is currently working on personal projects, frelancing and learning ...
 - 💞️ He is looking to collaborate here on Github and LinkedIn.
+- 👩‍💻 His software development projects are hosted here on Github and most of his Data Analytics projects are hosted on [Kaggle](https://www.kaggle.com/adegitetaiwo)
 - 📫 You can Reach him via [LinkedIn](https://www.linkedin.com/in/taiwo-adegite-39849b187/)
 
 <!---
